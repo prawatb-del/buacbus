@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Business Mastermind",
+  "description": "A business starter and accounting simulation game for Bangkok University accounting students, styled in BU\u0027s signature orange and purple colors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
